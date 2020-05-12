@@ -1,2 +1,2 @@
 # hello-world
-This is RecuseYourself.  I'm a newbe but also an oldie but goodie.
+This is RecurseYourself.  I'm a newbe but also an oldie but goodie.
