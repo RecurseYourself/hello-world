@@ -1,2 +1,2 @@
 # hello-world
-A short tutorial
+This is RecurseYourself.  I'm a newbe but also an oldie but goodie.
